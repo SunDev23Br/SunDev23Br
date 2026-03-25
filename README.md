@@ -10,4 +10,4 @@
 SunDev23Br/SunDev23Br is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-Olá,se você está aqui significa que teve algum interesse em conhecer meus códigos, espero que goste <3
+Olá,se você está aqui significa que teve algum interesse em conhecer meus códigos, espero que goste!
